@@ -66,19 +66,19 @@ The infrastructure follows a layered architecture:
 
 Trading System
       │
-      ▼
+      >
 Event Ingestion API
       │
-      ▼
+      >
 Event Integrity Layer
       │
-      ▼
+      >
 Persistent Event Store
       │
-      ▼
+      >
 Trade Chain Reconstruction
       │
-      ▼
+      >
 Diagnostics / Forensics
 
 The design separates event capture, event validation, and analysis layers.

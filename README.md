@@ -3,8 +3,9 @@ Engineering case study of a production-grade event integrity infrastructure desi
 This repository documents the architectural and reliability engineering principles used to build a deterministic event ingestion and forensic system for trading systems.
 
 The focus is not on trading strategy or alpha generation, but on system reliability, event integrity, and infrastructure robustness.
+
 ---
-##Problem Context
+## Problem Context
 
 Modern algorithmic trading systems produce complex chains of events:
 
@@ -32,4 +33,5 @@ This project explores the design of an infrastructure layer that guarantees:
 -reliable database schema evolution
 -reproducible deployments
 -automated environment validation
+
 ---

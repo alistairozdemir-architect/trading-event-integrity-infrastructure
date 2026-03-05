@@ -156,3 +156,27 @@ Evidence for the claims in this document can be found in:
 - application readiness validation output
 
 Screenshots of these artifacts are included in this repository.
+
+---
+
+## CI Pipeline Execution
+
+![CI Pipeline](images/ci_pipeline_pass.png)
+
+---
+
+## Container Runtime Execution
+
+![Docker Container Runtime](images/docker_container_run.png)
+
+---
+
+## Migration Execution
+
+![Migration Execution](images/migration_execution.png)
+
+---
+
+## Service Readiness Validation
+
+![Service Readiness Check](images/service_readiness_check.png)

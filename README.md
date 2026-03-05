@@ -192,7 +192,8 @@ Domains involved:
 ## Author
 
 Alistair Ozdemir
-Trading Systems Infrastructure Engineering
+
+- Trading Systems Infrastructure Engineering
 
 ---
 

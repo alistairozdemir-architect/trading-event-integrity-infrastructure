@@ -161,22 +161,22 @@ Screenshots of these artifacts are included in this repository.
 
 ## CI Pipeline Execution
 
-![CI Pipeline](images/ci_pipeline_pass.png)
+![CI Pipeline](images/ci_pipeline_pass.png.png)
 
 ---
 
 ## Container Runtime Execution
 
-![Docker Container Runtime](images/docker_container_run.png)
+![Docker Container Runtime](images/docker_container_run.png.png)
 
 ---
 
 ## Migration Execution
 
-![Migration Execution](images/migration_execution.png)
+![Migration Execution](images/migration_execution.png.png)
 
 ---
 
 ## Service Readiness Validation
 
-![Service Readiness Check](images/service_readiness_check.png)
+![Service Readiness Check](images/service_readiness_check.png.png)

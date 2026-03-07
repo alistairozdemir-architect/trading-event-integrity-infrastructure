@@ -86,6 +86,14 @@ This separation allows the system to remain stable even when trading strategies 
 
 ---
 
+## Trade Lifecycle Exploration
+
+Example of a reconstructed trade lifecycle derived from the recorded event chain.
+
+![CI Pipeline](images/trade_explorer.png)
+
+---
+
 ## Key Engineering Components
 
 Event Integrity Layer
@@ -100,6 +108,15 @@ The core responsibility of the system is to guarantee:
 - execution chain reconstruction
 - missing event detection
 - duplicate event identification
+
+---
+
+## Trading Event Ingestion Interface
+
+External trading systems submit lifecycle events through the ingestion interface.  
+Events are recorded in an idempotent and deterministic structure to guarantee reproducible execution chains.
+
+![CI Pipeline](images/ingest-event.png)
 
 ---
 
@@ -143,6 +160,12 @@ The pipeline performs:
 - API readiness checks
   
 This ensures that infrastructure regressions are detected early.
+
+---
+
+## CI Pipeline Execution
+
+![CI Pipeline](images/ci_pipeline_pass.png.png)
 
 ---
 

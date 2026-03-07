@@ -161,7 +161,7 @@ Screenshots of these artifacts are included in this repository.
 
 ## Trade Lifecycle Exploration
 
-![CI Pipeline](images/trade-explorer.png)
+![CI Pipeline](images/trade_explorer.png)
 
 ---
 

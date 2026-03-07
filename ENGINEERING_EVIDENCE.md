@@ -159,6 +159,18 @@ Screenshots of these artifacts are included in this repository.
 
 ---
 
+## Trade Lifecycle Exploration
+
+![CI Pipeline](images/trade-explorer.png)
+
+---
+
+## Trading Event Ingestion Interface
+
+![CI Pipeline](images/ingest-event.png)
+
+---
+
 ## CI Pipeline Execution
 
 ![CI Pipeline](images/ci_pipeline_pass.png.png)

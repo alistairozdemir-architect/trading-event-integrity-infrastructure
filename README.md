@@ -1,3 +1,9 @@
+## Project Type
+
+Architecture and reliability engineering case study for trading infrastructure.
+
+This repository focuses on system design, event integrity, idempotency, CI validation, and operational reliability. Proprietary production code is not included.
+
 # trading-event-integrity-infrastructure
 Engineering case study of a production-grade event integrity infrastructure designed for algorithmic trading environments.
 This repository documents the architectural and reliability engineering principles used to build a deterministic event ingestion and forensic system for trading systems.
